@@ -232,13 +232,13 @@ body {
 			background-size: cover;
 			transition: transform 1s, opacity 1s;
 			&--first {
-				background-image: $light-blue-gradient, url("../img/water.jpg");
+				background-image: $light-blue-gradient, url("./img/water.jpg");
 			}
 			&--second {
-				background-image: $blue-gradient, url("../img/boat.jpg");
+				background-image: $blue-gradient, url("./img/boat.jpg");
 			}
 			&--third {
-				background-image: $purple-gradient, url("../img/hawaii.jpg");
+				background-image: $purple-gradient, url("./img/hawaii.jpg");
 			}
 			&-title {
 				font-family: "Dancing Script", cursive;
